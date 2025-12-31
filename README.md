@@ -12,7 +12,7 @@ Project Title : Bank Transaction Service
 
 How to Run the Application
 1. Clone the repository
-2. Important in STS or Eclipse Tool
+2. Impor all project in to STS or Eclipse Tool
 3. Run it Server project and Clinet Bank  A and Client B .
 4. First test in Post man All api is working or what then Go for Jmeter load testing.
 5. All Runnable Api list or uploaded in request folder refer it.
